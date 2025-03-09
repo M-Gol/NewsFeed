@@ -1,0 +1,52 @@
+body {
+    background-color: #FE6E1F;
+    justify-items: center;
+    font-family: "Advent Pro", serif;
+    padding-top: 60px;
+}
+img {
+    width: 160px;
+    margin: 10px;
+    margin-bottom: 20px;
+    border: 3px solid;
+    border-radius: 10px;
+
+}
+b {
+    font-size: x-large;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.box {
+    background-color: #F5E6C5;
+    border: 3px solid;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: justify;
+    max-width: 500px;
+    max-height: fit-content;
+    box-shadow: 7px 8px;
+}
+.head {
+    display: flex;
+    align-items: center;
+    border-bottom: dotted 4px;
+    justify-content: space-between;
+}
+.NickName {
+    font-size: xxx-large;
+    font-family: "Rubik Mono One", serif;
+    margin-right: 10px;
+}
+.PreHead {
+    border-bottom: dotted 4px;
+}
+.body {
+    border-bottom: dotted 4px;
+    text-align: center;
+}
+.after {
+    text-align: center;
+}
