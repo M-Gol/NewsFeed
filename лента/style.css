@@ -1,0 +1,74 @@
+body {
+    background-color: #FE6E1F;
+    height: 100vh;
+    align-items: center;
+    font-family: "Advent Pro", serif;
+    margin-top: 0px;
+}
+.Box {
+    background-color: #F5E6C5;
+}
+.cap {
+    border-bottom: 3px solid;
+    font-size: 25px;
+    font-family: "Advent Pro", serif;
+    font-weight: bold;
+    text-align: left;
+    padding: 8px;
+    z-index: 1;
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hiden {
+    height: 80px;
+}
+.bHidden {
+    height: 10px;
+}
+*{
+    margin: 0px;
+    padding: 0%;
+}
+.NewsFeed {
+    display: grid;
+    justify-content: center;
+}
+.NewNew {
+    border: 3px solid;
+    max-width: 540px;
+    text-align: justify;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 7px 8px;
+}
+.phot {
+    width: 535px;
+    border: 3px solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.txt {
+    text-align: left;
+    font-size: 23px;
+    font-family: "Rubik Mono One", serif;
+}
+.info {
+    font-size: 30px;
+    font-weight: 500;
+    max-width: 540px;
+}
+.btn {
+    border: none;
+    background: none;
+    zoom: 1.5;
+}
+a {
+    margin-right: 18px;
+    color: black;
+    text-decoration: none;
+    font-size: xxx-large;
+}
