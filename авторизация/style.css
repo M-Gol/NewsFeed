@@ -1,0 +1,53 @@
+body {
+    background-color: #FE6E1F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 150px;
+}
+.box {
+    background-color: #F5E6C5;
+    max-width: 450px;
+    height: 350px;
+    padding: 10px;
+    border: 3px solid #2b2f36;
+    border-radius: 10px;
+    box-shadow: 7px 8px ;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+    font-family: "Rubik Mono One", serif;
+}
+input {
+    width: 350px;
+    height: 45px;  
+    margin-bottom: 20px; 
+    border: 2px solid #2b2f36;
+    border-radius: 20px;
+    background-color: #f1efe9;
+    font-size: 20px;
+    font-family: "Advent Pro", serif;;
+}
+button {
+    margin-top: 10px;
+    width: 30%;
+    height: 10%;
+    border: 2px solid #2b2f36;
+    border-radius: 20px;
+    background-color: #FE6E1F;
+    font-size: 25px;
+    font-family: "Advent Pro", serif;;
+}
+p {
+    text-align: center;
+    font-family: "Advent Pro", serif;
+    font-size: 20px;
+    color: #2b2f36;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
